@@ -1,2 +1,2 @@
-# Cava-projelerim-
-Cava-projelerim, Java programlama dilinde öğrendiğim temel kavramları ve basit projeleri bir araya getirdiğim bir depodur. Bu depoda, Java dilinde yaptığım ilk denemeleri, öğrendiğim kod parçacıklarını ve çeşitli küçük uygulamaları bulabilirsiniz. Amacım, Java diline dair öğrendiklerimi pekiştirmek ve aynı zamanda bu süreçte öğrendiklerimi başkalarıyla paylaşmaktır. Bu depo, ileride daha karmaşık projeler geliştirmek için bir temel oluşturacaktır.
+# Java-projelerim-
+Java-projelerim, Java programlama dilinde öğrendiğim temel kavramları ve basit projeleri bir araya getirdiğim bir depodur. Bu depoda, Java dilinde yaptığım ilk denemeleri, öğrendiğim kod parçacıklarını ve çeşitli küçük uygulamaları bulabilirsiniz. Amacım, Java diline dair öğrendiklerimi pekiştirmek ve aynı zamanda bu süreçte öğrendiklerimi başkalarıyla paylaşmaktır. Bu depo, ileride daha karmaşık projeler geliştirmek için bir temel oluşturacaktır.
